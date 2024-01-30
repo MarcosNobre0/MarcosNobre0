@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos
-  ![giphy](https://github.com/MarcosNobre0/MarcosNobre0/assets/155552455/8c0a33c1-f7fe-4842-83b0-10ceffe91575)
+  https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3emlvaWl4dWlobnhnNDcwOTgxNXRnZGU2aHhpY3J1bm5iempoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBYgkYhFRuNGHLvEEN/giphy.gif
 
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
 <!-- Dropdown -->
