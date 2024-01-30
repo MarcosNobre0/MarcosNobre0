@@ -3,13 +3,12 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-
+<img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844447994611629031524/">
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos !
   
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
-  - <img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844447994611629031524/">
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
