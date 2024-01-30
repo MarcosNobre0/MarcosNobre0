@@ -6,7 +6,7 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos !
-  <img class="giphy-gif-img giphy-img-loaded" src="https://media4.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif?cid=ecf05e47q11v74f7dq5ef4tic4rzvk9zi7pg9zsi4syr67b9&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" width="100%" height="100%" alt="The Matrix Loop GIF" style="background: rgb(0, 255, 153);">
+  <img src="https://media4.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif?cid=ecf05e47q11v74f7dq5ef4tic4rzvk9zi7pg9zsi4syr67b9&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" width="100%" height="100%" alt="The Matrix Loop GIF" style="background: rgb(0, 255, 153);">
  
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
 <!-- Dropdown -->
