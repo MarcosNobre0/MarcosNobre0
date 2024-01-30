@@ -6,8 +6,8 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Marcos
-  ![giphy](https://github.com/MarcosNobre0/MarcosNobre0/assets/155552455/67d925ab-3969-407f-b770-0860b79c8d4a)
+  Hi 👋, I'm Marcos !
+ <img src="[giphy](https://github.com/MarcosNobre0/MarcosNobre0/assets/155552455/67d925ab-3969-407f-b770-0860b79c8d4a)"
 
   
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
