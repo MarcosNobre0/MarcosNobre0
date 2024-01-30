@@ -7,8 +7,9 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos
-![giphy](https://github.com/MarcosNobre0/MarcosNobre0/assets/155552455/288f4a19-2234-4c6c-8317-387c5ffdaa60)
+  ![giphy](https://github.com/MarcosNobre0/MarcosNobre0/assets/155552455/67d925ab-3969-407f-b770-0860b79c8d4a)
 
+  
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
 <!-- Dropdown -->
 <details>
