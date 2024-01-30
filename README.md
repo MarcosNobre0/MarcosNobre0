@@ -6,7 +6,7 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos !
-  <img src="![image](https://github.com/MarcosNobre0/MarcosNobre0/assets/155552455/e686d6e1-5b43-42be-8775-ab5d4a7b5d5e)">
+  <img src="https://github.com/MarcosNobre0/MarcosNobre0/assets/155552455/e686d6e1-5b43-42be-8775-ab5d4a7b5d5e">
  
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
 <!-- Dropdown -->
