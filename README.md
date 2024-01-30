@@ -6,7 +6,7 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos !
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZwaXliNTVkeHc0aG03aTYyaGU5am5kcnJzN25qY2ZuNG5uMndieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZwaXliNTVkeHc0aG03aTYyaGU5am5kcnJzN25qY2ZuNG5uMndieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif"
  
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
 <!-- Dropdown -->
