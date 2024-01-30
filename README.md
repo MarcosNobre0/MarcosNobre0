@@ -8,8 +8,7 @@
 <p>
   Hi 👋, I'm Marcos !
 
-  
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3emlvaWl4dWlobnhnNDcwOTgxNXRnZGU2aHhpY3J1bm5iempoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBYgkYhFRuNGHLvEEN/giphy.gif">
+ <img src="https://media3.giphy.com/media/l0HlUvsXh3w7w2PUk/giphy.gif?cid=ecf05e47c9g91gjn3mppmtds09vbasrmxbxqpxhbwn3g1tek&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
   
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
