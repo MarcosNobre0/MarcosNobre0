@@ -3,11 +3,10 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-<img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844447994611629031524/">
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos !
-  
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZwaXliNTVkeHc0aG03aTYyaGU5am5kcnJzN25qY2ZuNG5uMndieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif">
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
 <!-- Dropdown -->
 <details>
