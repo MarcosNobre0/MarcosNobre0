@@ -7,9 +7,6 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Marcos !
-
- <img src="https://media3.giphy.com/media/l0HlUvsXh3w7w2PUk/giphy.gif?cid=ecf05e47c9g91gjn3mppmtds09vbasrmxbxqpxhbwn3g1tek&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-
   
   - 🌱 I’m currently studying software engineering at UNINTER https://www.uninter.com/?gad_source=1&gclid=EAIaIQobChMIxaufteuChAMVFRitBh1K1wSSEAAYASAAEgLjp_D_BwE
 <!-- Dropdown -->
