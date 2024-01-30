@@ -4,7 +4,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 <!-- Presentation -->
-<p>
   Hi 👋, I'm Marcos !
   <img src="https://media4.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.webp?cid=ecf05e473hhu9xl6jkjxs7amr9kgjipo0bdaguff2vwghg8l&ep=v1_gifs_search&rid=giphy.webp&ct=g">
  
